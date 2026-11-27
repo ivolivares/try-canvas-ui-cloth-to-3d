@@ -1,0 +1,6 @@
+{
+  "name": "Vice VI · 3D Cloth Gallery",
+  "description": "Interactive Three.js neon bathroom and Canvas UI cloth shower curtain gallery for inspecting high-resolution GTA VI-inspired character textures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
